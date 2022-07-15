@@ -1,1 +1,1 @@
-# Netfilx_clone_projesi
+# Netfilx_clone_php_pro
