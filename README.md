@@ -17,6 +17,7 @@ HTML - CSS - PHP -MYSQL
 
 
 My Social Media
-(https://user-images.githubusercontent.com/68226220/197389844-0fb9b073-8b5c-4845-97c0-bba1b36f5987.gif)
+![lınkedin](https://user-images.githubusercontent.com/68226220/197389880-98b63cfa-d54a-47c8-a242-71a0cb5aa0b5.gif)
+
 https://www.linkedin.com/in/mahsum-tarhan-8b9074202/![lınkedin]
 
