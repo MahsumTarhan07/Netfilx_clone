@@ -16,7 +16,7 @@ HTML - CSS - PHP -MYSQL
 ![netfilix3](https://user-images.githubusercontent.com/68226220/197388966-2d440ab9-b35b-46ec-b494-9ca285e4ea76.png)
 
 
-My Social Media
+  ****   My Social Media  ****
 ![lınkedin](https://user-images.githubusercontent.com/68226220/197389880-98b63cfa-d54a-47c8-a242-71a0cb5aa0b5.gif)
 
 https://www.linkedin.com/in/mahsum-tarhan-8b9074202/![lınkedin]
